@@ -22,3 +22,7 @@ I am a developer and designer on a continous journey of learning and growth. I a
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+### Github Stats
+
+[![Tanzeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanzeel159)](https://github.com/Tanzeel159/github-readme-stats)
