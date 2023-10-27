@@ -25,4 +25,4 @@ I am a developer and designer on a continous journey of learning and growth. I a
 
 ### Github Stats
 
-[![Tanzeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanzeel159)](https://github.com/Tanzeel159/github-readme-stats)
+[![Tanzeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanzeel159)](https://github.com/Tanzeel159/github-readme-stats&show_icons=true&theme=gruvbox)
